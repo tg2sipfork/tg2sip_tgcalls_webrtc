@@ -2,7 +2,6 @@
 
 **New updated fork of tg2sip based on WebRTC & tgcalls.**
 
-*Read this in other languages: [English](#-english) | [Русский](#-русский)*
 
 ---
 
