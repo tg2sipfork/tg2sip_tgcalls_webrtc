@@ -22,8 +22,7 @@ This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcall
 
 ### 🤝 Help Wanted!
 We are actively looking for contributors to help push this project forward. Specifically, we need developers who can:
-1. Add support for **tgcalls v2**.
-2. Fix and implement **iOS support**.
+1. Add support for **tgcalls v2 for iOS support**.
 
 ### 📬 Access & Contact
 The source code is currently available upon request. 
@@ -53,8 +52,7 @@ The source code is currently available upon request.
 
 ### 🤝 Ищем контрибьюторов!
 Ищу энтузиастов и разработчиков, которые могут помочь улучшить проект. Основные задачи:
-1. Поправить работу и добавить поддержку **tgcalls v2**.
-2. Добавить поддержку звонков для **iOS**.
+1. Поправить работу и добавить поддержку **tgcalls v2 для **iOS**.
 
 ### 📬 Доступ к коду и контакты
 Доступ к исходному коду предоставляется по запросу.
