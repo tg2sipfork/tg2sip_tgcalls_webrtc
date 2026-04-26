@@ -5,7 +5,7 @@
 
 ---
 
-## 🇬🇧 English
+
 
 ### ℹ️ About the Project
 This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcalls**. Currently, the implementation only supports **tgcalls v1**.
@@ -36,7 +36,7 @@ The source code is currently available upon request.
 
 ---
 
-## 🇷🇺 Русский
+
 
 ### ℹ️ О проекте
 Это новый, обновленный форк проекта `tg2sip`, работающий на базе **WebRTC** и **tgcalls**. Текущая реализация поддерживает только **tgcalls v1**.
