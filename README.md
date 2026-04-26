@@ -22,7 +22,7 @@ This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcall
 
 ### 🤝 Help Wanted!
 We are actively looking for contributors to help push this project forward. Specifically, we need developers who can:
-1. Add support for **tgcalls v2 for iOS support**.
+1. Add fixes for **tgcalls v2 for iOS support**.
 
 ### 📬 Access & Contact
 The source code is currently available upon request. 
