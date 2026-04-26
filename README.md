@@ -1,22 +1,67 @@
-# tg2sip_tgcalls_webrtc
-# current implementation only supports tgcalls v1
-# Looking for people who can add support for tgcalls v2
-# Please write to email if you can fix support for tgcalls v2
-# wokring tg client are - telegram android and windows\linux\mac
-# not working - ios
-# Email me if you can add ios support 
-# Or if you want access to the code, email me too
-# We can call and I'll show you how it works
+# 📞 tg2sip_tgcalls_webrtc
 
-# Форк tg2sip на tgcalls + webrtc
-# Ищу людей который поравят работу tgcalls v2
-# пишите на почту если сможете добавить
-# или если хотите получить доступ к коду тоже пишите
-# можем созвониться покажу как работает
-# Текущая реализация поддерживает звонки на тг андроид и десктоп 
-# не поддерживает звонки в ios
+**New updated fork of tg2sip based on WebRTC & tgcalls.**
 
-tg2sip new updated fork on webrtc \ tgcalls
-For code Access - please write to
+*Read this in other languages: [English](#-english) | [Русский](#-русский)*
 
-sip.to.tg@gmail.com
+---
+
+## 🇬🇧 English
+
+### ℹ️ About the Project
+This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcalls**. Currently, the implementation only supports **tgcalls v1**.
+
+### 📱 Supported Platforms
+**Working Telegram clients:**
+- ✅ Android
+- ✅ Windows
+- ✅ Linux
+- ✅ macOS
+
+**Currently NOT working:**
+- ❌ iOS
+
+### 🤝 Help Wanted!
+We are actively looking for contributors to help push this project forward. Specifically, we need developers who can:
+1. Add support for **tgcalls v2**.
+2. Fix and implement **iOS support**.
+
+### 📬 Access & Contact
+The source code is currently available upon request. 
+
+- If you have the expertise to fix `tgcalls v2` or iOS compatibility, please email me!
+- If you simply want access to the code to explore it, feel free to write as well.
+- *We can schedule a call, and I will gladly show you a live demo of how it works.*
+
+**📧 Email:** [sip.to.tg@gmail.com](mailto:sip.to.tg@gmail.com)
+
+---
+
+## 🇷🇺 Русский
+
+### ℹ️ О проекте
+Это новый, обновленный форк проекта `tg2sip`, работающий на базе **WebRTC** и **tgcalls**. Текущая реализация поддерживает только **tgcalls v1**.
+
+### 📱 Поддерживаемые платформы
+**Где звонки работают (клиенты Telegram):**
+- ✅ Android
+- ✅ Windows
+- ✅ Linux
+- ✅ macOS
+
+**Где звонки пока НЕ работают:**
+- ❌ iOS
+
+### 🤝 Ищем контрибьюторов!
+Ищу энтузиастов и разработчиков, которые могут помочь улучшить проект. Основные задачи:
+1. Поправить работу и добавить поддержку **tgcalls v2**.
+2. Добавить поддержку звонков для **iOS**.
+
+### 📬 Доступ к коду и контакты
+Доступ к исходному коду предоставляется по запросу.
+
+- Если вы знаете, как добавить поддержку `tgcalls v2` или починить iOS — обязательно пишите!
+- Если вы просто хотите получить доступ к коду — тоже пишите на почту.
+- *Мы можем созвониться, и я вживую покажу, как всё устроено и работает.*
+
+**📧 Почта:** [sip.to.tg@gmail.com](mailto:sip.to.tg@gmail.com)
