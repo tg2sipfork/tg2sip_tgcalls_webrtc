@@ -15,6 +15,7 @@ This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcall
 ### 📱 Supported Platforms
 **Working Telegram clients:**
 - ✅ iOS (Now fully supported)
+- ✅ web.telegram.org/a (Now fully supported)
 - ✅ Android
 - ✅ Windows
 - ✅ Linux
@@ -40,6 +41,7 @@ The source code is currently available upon request.
 ### 📱 Поддерживаемые платформы
 **Где звонки работают (клиенты Telegram):**
 - ✅ iOS (Теперь поддерживается)
+- ✅ web.telegram.org/a (Теперь поддерживается)
 - ✅ Android
 - ✅ Windows
 - ✅ Linux
