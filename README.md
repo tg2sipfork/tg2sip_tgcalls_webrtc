@@ -1,3 +1,6 @@
+<img width="1900" height="182" alt="image" src="https://github.com/user-attachments/assets/18e04631-2f71-466d-935c-4741d75426a9" />
+
+
 # 📞 tg2sip_tgcalls_webrtc
 
 # https://sip-for-telegram.com
