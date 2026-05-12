@@ -21,7 +21,7 @@ This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcall
 - ✅ Windows
 - ✅ Linux
 - ✅ macOS
-- ✅ any other telegram tgcalls clients
+- ✅ Telegram X any other telegram tgcalls clients
 
 **Supported Versions:**
 2.7.7, 3.0.0, 5.0.0, 6.0.0, 7.0.0, 8.0.0, 9.0.0, 10.0.0 , 11.0.0, 12.0.0, 13.0.0
@@ -47,7 +47,7 @@ The source code is currently available upon request.
 - ✅ Windows
 - ✅ Linux
 - ✅ macOS
-- ✅ Любые другие Telegram tgcalls клиенты
+- ✅ Telegram X и Любые другие Telegram tgcalls клиенты
 
 **Поддерживаемые версии:**
 2.7.7, 3.0.0, 5.0.0, 6.0.0, 7.0.0, 8.0.0, 9.0.0, 10.0.0 , 11.0.0, 12.0.0, 13.0.0
