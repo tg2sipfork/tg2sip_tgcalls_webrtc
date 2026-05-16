@@ -11,7 +11,7 @@
 ---
 
 ### ℹ️ About the Project
-This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcalls**. The implementation fully supports both **tgcalls v1** and **tgcalls v2**.
+This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcalls**. The implementation fully supports both **tgcalls v1** and **tgcalls v2** and now - legacy livtgvoip 2.4.4
 
 ### 📱 Supported Platforms
 **Working Telegram clients:**
@@ -39,7 +39,7 @@ The source code is currently available upon request.
 ---
 
 ### ℹ️ О проекте
-Это новый, обновленный форк проекта `tg2sip`, работающий на базе **WebRTC** и **tgcalls**. Текущая реализация полноценно поддерживает **tgcalls v1** и **tgcalls v2**.
+Это новый, обновленный форк проекта `tg2sip`, работающий на базе **WebRTC** и **tgcalls**. Текущая реализация полноценно поддерживает **tgcalls v1** и **tgcalls v2** и теперь старую libtgvoip 2.4.4.
 
 ### 📱 Поддерживаемые платформы
 **Где звонки работают (клиенты Telegram):**
