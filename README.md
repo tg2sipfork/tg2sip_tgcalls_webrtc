@@ -1,7 +1,6 @@
 <img width="1900" height="182" alt="image" src="https://github.com/user-attachments/assets/18e04631-2f71-466d-935c-4741d75426a9" />
 <img width="1919" height="383" alt="image" src="https://github.com/user-attachments/assets/e0ac4fdc-634b-487a-99bb-f75342025225" />
 
-
 # 📞 tg2sip_tgcalls_webrtc
 
 # https://sip-for-telegram.com
@@ -24,9 +23,9 @@ This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcall
 - ✅ Telegram X any other telegram tgcalls clients
 
 **Supported Versions:**
- v0 - 2.4.4 - now added support for libtgvoip for compatibility with older tg clients and software like OG tg2sip
- v1 - 2.7.7, 5.0.0
- v2 - 7.0.0, 8.0.0, 9.0.0, 10.0.0 , 11.0.0, 12.0.0, 13.0.0
+- **v0 (2.4.4)** — now added support for libtgvoip for compatibility with older tg clients and software like OG tg2sip.
+- **v1** — 2.7.7, 5.0.0
+- **v2** — 7.0.0, 8.0.0, 9.0.0, 10.0.0, 11.0.0, 12.0.0, 13.0.0
 
 ### 📬 Access & Contact
 The source code is currently available upon request. 
@@ -52,9 +51,9 @@ The source code is currently available upon request.
 - ✅ Telegram X и Любые другие Telegram tgcalls клиенты
 
 **Поддерживаемые версии:**
-v0 - 2.4.4 - теперь добавлена ​​поддержка libtgvoip для совместимости со старыми клиентами tg и сторонними tg старыми tg клиентами, таким как оригинальный tg2sip.
-v1 - 2.7.7, 5.0.0
-v2 - 7.0.0, 8.0.0, 9.0.0, 10.0.0 , 11.0.0, 12.0.0, 13.0.0
+- **v0 (2.4.4)** — теперь добавлена ​​поддержка libtgvoip для совместимости со старыми клиентами tg и сторонним ПО, таким как оригинальный tg2sip.
+- **v1** — 2.7.7, 5.0.0
+- **v2** — 7.0.0, 8.0.0, 9.0.0, 10.0.0, 11.0.0, 12.0.0, 13.0.0
 
 ### 📬 Доступ к коду и контакты
 Доступ к исходному коду предоставляется по запросу.
