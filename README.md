@@ -10,7 +10,7 @@
 ---
 
 ### ℹ️ About the Project
-This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcalls**. The implementation fully supports both **tgcalls v1** and **tgcalls v2** and now - legacy livtgvoip 2.4.4
+This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcalls**. The implementation fully supports both **tgcalls v1** and **tgcalls v2** and now - legacy libtgvoip 2.4.4
 
 ### 📱 Supported Platforms
 **Working Telegram clients:**
