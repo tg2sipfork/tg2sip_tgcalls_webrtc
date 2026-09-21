@@ -1,0 +1,33 @@
+services:
+  tg-dev:
+    container_name: tg-dev
+    image: tg-dev:latest
+    network_mode: host
+    cap_add:
+      - NET_ADMIN
+    init: true
+    
+    volumes:
+      - ./:/mnt
+      
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+      
+  
+    restart: unless-stopped
+    
+    tty: true
+    stdin_open: true
+    command: /bin/bash
+    
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "1g"
+        max-file: "3"
+        
+    deploy:
+      resources:
+        limits:
+          memory: 25G
