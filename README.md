@@ -1,5 +1,5 @@
-<img width="1900" height="182" alt="image" src="https://github.com/user-attachments/assets/18e04631-2f71-466d-935c-4741d75426a9" />
-<img width="1919" height="383" alt="image" src="https://github.com/user-attachments/assets/e0ac4fdc-634b-487a-99bb-f75342025225" />
+<img width="1911" height="355" alt="18" src="https://github.com/user-attachments/assets/eece334a-3410-4813-ac2f-4a12277b77f0" />
+
 
 # 📞 tg2sip_tgcalls_webrtc
 
