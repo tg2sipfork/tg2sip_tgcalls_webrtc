@@ -10,7 +10,7 @@
 ---
 
 ### ℹ️ About the Project
-This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcalls**. The implementation fully supports both **tgcalls v1** and **tgcalls v2** and now - legacy libtgvoip 2.4.4
+This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcalls**. The implementation fully supports both **tgcalls v1** and **tgcalls v2** and now latest - tgcalls v3 (18.0.0)!
 
 ### 📱 Supported Platforms
 **Working Telegram clients:**
@@ -23,9 +23,10 @@ This is a new, updated fork of `tg2sip` implemented with **WebRTC** and **tgcall
 - ✅ Telegram X any other telegram tgcalls\libtgvoip clients
 
 **Supported Versions:**
-- **v0 (2.4.4)** — now added support for libtgvoip for compatibility with older tg clients and software like OG tg2sip.
+- **v0 (2.4.4)** — its libtgvoip for compatibility with very old tg clients.
 - **v1** — 2.7.7, 5.0.0
 - **v2** — 7.0.0, 8.0.0, 9.0.0, 10.0.0, 11.0.0, 12.0.0, 13.0.0
+- **v3** — 18.0.0
 
 ### 📬 Access & Contact
 The source code is currently available upon request. 
@@ -38,7 +39,7 @@ The source code is currently available upon request.
 ---
 
 ### ℹ️ О проекте
-Это новый, обновленный форк проекта `tg2sip`, работающий на базе **WebRTC** и **tgcalls**. Текущая реализация полноценно поддерживает **tgcalls v1** и **tgcalls v2** и теперь старую libtgvoip 2.4.4.
+Это новый, обновленный форк проекта `tg2sip`, работающий на базе **WebRTC** и **tgcalls**. Текущая реализация полноценно поддерживает **tgcalls v1** и **tgcalls v2** и теперь **tgcalls v3** !
 
 ### 📱 Поддерживаемые платформы
 **Где звонки работают (клиенты Telegram):**
@@ -51,9 +52,10 @@ The source code is currently available upon request.
 - ✅ Telegram X и Любые другие Telegram tgcalls\libtgvoip клиенты
 
 **Поддерживаемые версии:**
-- **v0 (2.4.4)** — теперь добавлена ​​поддержка libtgvoip для совместимости со старыми клиентами tg и сторонним ПО, таким как оригинальный tg2sip.
+- **v0 (2.4.4)** — libtgvoip для совместимости со старыми телеграм клиентами.
 - **v1** — 2.7.7, 5.0.0
 - **v2** — 7.0.0, 8.0.0, 9.0.0, 10.0.0, 11.0.0, 12.0.0, 13.0.0
+- **v3** — 18.0.0
 
 ### 📬 Доступ к коду и контакты
 Доступ к исходному коду предоставляется по запросу.
